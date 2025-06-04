@@ -148,4 +148,5 @@ Feedstock Maintainers
 =====================
 
 * [@BIT-cypher](https://github.com/BIT-cypher/)
+* [@jdmarques](https://github.com/jdmarques/)
 

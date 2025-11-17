@@ -38,7 +38,7 @@ about:
   license_file: LICENSE
   summary: Prawn renders SVG directly into PDF documents.
   doc_url: http://www.rubydoc.info/gems/prawn-svg
-  dev_url: https://github.com/rumblelabs/prawn-svg
+  dev_url: https://github.com/mogest/prawn-svg
 
 extra:
   recipe-maintainers:

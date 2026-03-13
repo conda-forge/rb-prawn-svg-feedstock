@@ -9,7 +9,7 @@ Package license: MIT
 
 Summary: Prawn renders SVG directly into PDF documents.
 
-Development: https://github.com/rumblelabs/prawn-svg
+Development: https://github.com/mogest/prawn-svg
 
 Documentation: http://www.rubydoc.info/gems/prawn-svg
 
